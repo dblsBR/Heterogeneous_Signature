@@ -2,7 +2,7 @@
 
 Algorithms:
 
-MO_signature.cpp - Estimates the survival signature of a network system with two classes of components through bi-objective optimization
+BO_signature.cpp - Estimates the survival signature of a network system with two classes of components through bi-objective optimization
 
 SO_signature.cpp - Estimates the survival signature of a network system with two classes of components through repeated single-objective optimization
 
