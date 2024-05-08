@@ -1,0 +1,11 @@
+Mon May 06 20:21:11 2024
+
+IncSearch Algorithm - Run-time Performance:
+Instance: Airplane, m1 = 10, m2 = 70, M = 5000
+
+Initialization: 0
+
+Survival Signature estimation: 2.638
+
+Survival Signature rate: 0.0005276
+

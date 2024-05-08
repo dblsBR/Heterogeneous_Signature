@@ -1,0 +1,11 @@
+Mon May 06 20:09:42 2024
+
+BO Algorithm - Run-time Performance:
+Instance: Airplane, m1 = 30, m2 = 50, M = 5000
+
+Initialization: 0
+
+Survival Signature estimation: 2.456
+
+Survival Signature rate: 0.0004912
+

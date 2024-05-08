@@ -1,0 +1,11 @@
+Mon May 06 19:43:20 2024
+
+Naive Algorithm - Run-time Performance:
+Instance: Airplane, m1 = 40, m2 = 40, M = 5000
+
+Initialization: 0
+
+Survival Signature estimation: 132.61
+
+Survival Signature rate: 0.026522
+
