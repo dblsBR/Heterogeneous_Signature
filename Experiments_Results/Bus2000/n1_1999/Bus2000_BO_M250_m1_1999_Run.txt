@@ -1,0 +1,11 @@
+Fri Apr 12 21:39:34 2024
+
+BO Algorithm - Run-time Performance:
+Instance: Bus2000, m1 = 1999, m2 = 1999, M = 250
+
+Initialization: 0.005
+
+Survival Signature estimation: 51.011
+
+Survival Signature rate: 0.20404
+

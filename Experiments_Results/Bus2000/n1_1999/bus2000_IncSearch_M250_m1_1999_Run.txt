@@ -1,0 +1,11 @@
+Fri Apr 12 21:41:52 2024
+
+IncSearch Algorithm - Run-time Performance:
+Instance: bus2000, m1 = 1999, m2 = 1999, M = 250
+
+Initialization: 0.004
+
+Survival Signature estimation: 1585.1
+
+Survival Signature rate: 6.3404
+

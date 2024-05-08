@@ -1,0 +1,11 @@
+Fri Apr 12 19:03:20 2024
+
+SO Algorithm - Run-time Performance:
+Instance: bus2000, m1 = 999, m2 = 2999, M = 250
+
+Initialization: 0.003
+
+Survival Signature estimation: 6538
+
+Survival Signature rate: 26.152
+
