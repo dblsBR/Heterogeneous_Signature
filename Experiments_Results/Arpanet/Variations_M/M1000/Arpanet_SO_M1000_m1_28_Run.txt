@@ -1,0 +1,11 @@
+Mon May 06 12:15:16 2024
+
+SO Algorithm - Run-time Performance:
+Instance: Arpanet, m1 = 28, m2 = 29, M = 1000
+
+Initialization: 0
+
+Survival Signature estimation: 0.519
+
+Survival Signature rate: 0.000519
+

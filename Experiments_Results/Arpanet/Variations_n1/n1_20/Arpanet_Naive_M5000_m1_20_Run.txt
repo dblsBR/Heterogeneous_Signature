@@ -1,0 +1,11 @@
+Mon May 06 19:03:33 2024
+
+Naive Algorithm - Run-time Performance:
+Instance: Arpanet, m1 = 20, m2 = 37, M = 5000
+
+Initialization: 0.001
+
+Survival Signature estimation: 27.907
+
+Survival Signature rate: 0.0055814
+

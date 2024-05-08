@@ -1,0 +1,11 @@
+Mon May 06 12:10:25 2024
+
+IncSearch Algorithm - Run-time Performance:
+Instance: Arpanet, m1 = 28, m2 = 29, M = 5000
+
+Initialization: 0.001
+
+Survival Signature estimation: 1.982
+
+Survival Signature rate: 0.0003964
+

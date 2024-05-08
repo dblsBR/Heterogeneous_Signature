@@ -1,0 +1,11 @@
+Mon May 06 19:08:21 2024
+
+BO Algorithm - Run-time Performance:
+Instance: Arpanet, m1 = 12, m2 = 45, M = 5000
+
+Initialization: 0
+
+Survival Signature estimation: 0.885
+
+Survival Signature rate: 0.000177
+
