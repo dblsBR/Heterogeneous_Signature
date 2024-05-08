@@ -1,0 +1,11 @@
+Fri Apr 26 18:56:25 2024
+
+BO Algorithm - Run-time Performance:
+Instance: Chain, m1 = 8, m2 = 8, M = 20000
+
+Initialization: 0
+
+Survival Signature estimation: 1.793
+
+Survival Signature rate: 8.965e-005
+
