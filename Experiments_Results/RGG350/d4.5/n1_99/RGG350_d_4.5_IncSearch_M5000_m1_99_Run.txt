@@ -1,0 +1,11 @@
+Mon Apr 29 20:15:52 2024
+
+IncSearch Algorithm - Run-time Performance:
+Instance: RGG350_d_4.5, m1 = 99, m2 = 249, M = 5000
+
+Initialization: 0.255
+
+Survival Signature estimation: 60005
+
+Survival Signature rate: 12.001
+

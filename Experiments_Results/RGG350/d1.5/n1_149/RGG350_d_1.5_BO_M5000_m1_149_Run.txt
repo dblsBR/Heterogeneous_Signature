@@ -1,0 +1,11 @@
+Sat Apr 13 15:20:48 2024
+
+BO Algorithm - Run-time Performance:
+Instance: RGG350_d_1.5, m1 = 149, m2 = 199, M = 5000
+
+Initialization: 0.06
+
+Survival Signature estimation: 39.325
+
+Survival Signature rate: 0.007865
+

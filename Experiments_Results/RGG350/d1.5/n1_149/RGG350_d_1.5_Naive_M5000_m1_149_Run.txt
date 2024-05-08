@@ -1,0 +1,11 @@
+Sun Apr 14 11:55:10 2024
+
+Naive Algorithm - Run-time Performance:
+Instance: RGG350_d_1.5, m1 = 149, m2 = 199, M = 5000
+
+Initialization: 0.062
+
+Survival Signature estimation: 47650
+
+Survival Signature rate: 9.5301
+
